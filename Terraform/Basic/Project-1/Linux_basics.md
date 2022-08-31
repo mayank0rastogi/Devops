@@ -1,4 +1,5 @@
 What does ls -lrt command do?
+
 The ls command is used for listing the contents of a directory. The lrt part is a combination of three different options:
 
 l: This is for the long listing of the contents. It shows one file in each line with additional info such as permissions, ownership, size, timestamps etc.
